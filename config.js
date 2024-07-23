@@ -10,42 +10,42 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['529861009341', '👑 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 - Creador 👑', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', false],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 💫', true],
-  ['529861009341', '💫 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓¨💫', true],
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'], 
-  ['529861009341'],  
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'],
-  ['529861009341'], 
-  ['529861009341'], 
-  ['529861009341']
+  ['+51920726588', '👑 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 - Creador 👑', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', false],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 💫', true],
+  ['+51920726588', '💫 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞¨💫', true],
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'], 
+  ['+51920726588'],  
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'],
+  ['+51920726588'], 
+  ['+51920726588'], 
+  ['+51920726588']
 ];
 
-global.suittag = ['529861009341'];
-global.prems = ['529861009341'];
+global.suittag = ['+51920726588'];
+global.prems = ['+51920726588'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
-global.author = '𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓';
-global.wm = '𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓';
-global.titulowm = '𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓';
-global.titulowm2 = `𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓`
-global.igfg = '𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓';
+global.author = '𝐁𝐨𝐭 𝐊𝐚𝐭𝐞';
+global.wm = '𝐁𝐨𝐭 𝐊𝐚𝐭𝐞';
+global.titulowm = '𝐁𝐨𝐭 𝐊𝐚𝐭𝐞';
+global.titulowm2 = `𝐁𝐨𝐭 𝐊𝐚𝐭𝐞`
+global.igfg = '𝐁𝐨𝐭 𝐊𝐚𝐭𝐞';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,15 +66,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 🤖`;
-global.gt = '𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 🤖';
-global.mysticbot = '𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓 🤖';
+global.wm2 = `${dia} ${fecha}\n𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 🤖`;
+global.gt = '𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 🤖';
+global.mysticbot = '𝐁𝐨𝐭 𝐊𝐚𝐭𝐞 🤖';
 global.md = 'https://www.instagram.com/ocean.corp';
 global.mysticbot = 'https://www.instagram.com/ocean.corp';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '529861009341';
+global.nomorown = '+51920726588';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

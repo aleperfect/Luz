@@ -22,8 +22,8 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓
-┃📞 Wa.me/529861009341
+┃⭐ Creador : 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞
+┃📞 Wa.me/+51920726588
 ┃IG: https://www.instagram.com/ocean.corp/
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 

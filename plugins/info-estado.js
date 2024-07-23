@@ -22,11 +22,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓';
+  const wm = '𝐁𝐨𝐭 𝐊𝐚𝐭𝐞';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* 𝐎𝐂𝐄𝐀𝐍 𝐁𝐎𝐓
- [#️⃣] *WA:* wa.me/51992621701
+ [🤴🏻] *Prop.:* 𝐁𝐨𝐭 𝐊𝐚𝐭𝐞
+ [#️⃣] *WA:* wa.me/+51920726588
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}
